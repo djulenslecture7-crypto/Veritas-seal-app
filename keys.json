@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "veritas-seal-project",
+  "private_key_id": "9d96d00015cd8ebe366055b9fd3ef8b86c14ff1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVw4o8OGBRCm/U\neEB4H8IS/lu+sIRIIbOJJRQGXr+8BfEEPLdZ8h/Y+XCG0HOW8Xbig4uTFWifekNr\nMLcafdMBP7lnef/SgeWd/A0z0EoDx7l8t74K3FSgpGohTJ0Z+gdwwVhC2mWPo4Pw\n8GSgZpweuypoVFRp0N88hdaei2szn+U9nj1vLk6PXQ95t/XCiGYqGpzELhH7oF61\nQ6ARNjoyrzJgL9FtDwls4h9n1cGqlLT4j190tQeq9rG39LQH+lZhOfFE5P4vMTqj\nRBs/33DCKUmhBmTYuDeLJJNN1hXxEYJuSlvBgbRw2JpfhF94YNzsNn8Zl/8LKF9f\nkuv3IwhTAgMBAAECggEAID6NtIXAfu5Mbh1G2ZfYxiquG3aJjaPfxA6JaxM8aBfx\nV3VH0akvL/h4W9hHsftxtmX8q3ltkwN19fj0Nb/IZgYpvmJtugretapWh3v3c4Mw\nseUOz+6U/reuS/WVi7HmZhYUF97VC7Sw61V8/aEHaFn34fg5KiOtTiDWKIuD5oEE\n345UR8Yek6pTaXoWkr0+L7vhGBmcIgRjbjahU+5CoZVI7aJlsltNUEdsPkubdyRt\n6MHJzRiaHpqWvJ+9U3NKhnMiuIbshRWH+beAeyR0NYwyJNXOZsZ1+dHrRHP++R9I\nQGNJHdOLM4mLODwGKeqiKQL4eTjtha4vSPm/8tCfkQKBgQD9L4GSnYzsE4r0So6A\npFhErAE3NtfvnTPWEIABV4lTt31PuF5MTgkhBBcqFbb1GMMQwAU3l5+b6DnIVc3d\nKOb/8sQRfP081Funs3lJdq47y3RCKIvIZ4m7RV+eCStFkAFUGz3Spt/4r945LUWI\nWTHcKn3qVG/GSJrY4S7YLm4xuQKBgQDYI9nOzZj30I4it2oGFHtTiqpthR4ofW8Y\nMiWCrIflxNHQoBWXm9VlUSXbdTjUsuZJt8ZiWTx+FvxFQdadVYIauwAyrKDv2vd8\n10YJWdCa/E62j9RydUkNeSQqxL4PnUPVffzu3TTZK29Oh+uvs204eh1vDURt3Z8v\n+IQUAtZAawKBgCu+WHm3ZNCo87oPY52QR3vd5/vdKuPIWlti0Grq79wZ+LmcVhaC\n6QreRQ5NYCXqmFE9i+k19iqerdUSFhZe6cJQ9FU9LhejbQ6FcLAjpCjKlxSTIsuG\nMAK+Eq4gUWycW85nQoAxusKhyBhC3R+YoYezg7vHyOQOSUqtZUWOiBVpAoGAJ7Uu\nZpfO6ngeJLKdf9Bzd72Z4dT63WVt63wK+B7KOKQYB8PhM6Elax+lXNQERM85D4H7\nqEXMnz2Jyw91ZiI3bMG+H5EnX+lSXlUOQNmHQXHo5BE4bm6tpRQEWPccE7JIrAgh\nV6C7/MnGAR9nZTgJcL6+eZBuaeC1RhLZ8PM0eVECgYEAs2+QAP9/+kw7inN+BQeZ\nTCCmff7gxgGOIcCPB1HVw3YdBmJwJZNT4Ljqmy01KGs3kJ7ps1WnqSD/RFMaZ7xm\nqQiY62fZvUe0ds01FHYWfLCqoyZblmd+s32c8LTLwjf7j9EoLBpPXVqbxVTOurWd\nWjHR7hNlwu3yRz/H2wNNsVM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "veritas-seal-writer@veritas-seal-project.iam.gserviceaccount.com",
+  "client_id": "106282930303069596071",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/veritas-seal-writer%40veritas-seal-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
